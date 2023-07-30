@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227594402755",
+    "project_id": "takipapp-275f0",
+    "storage_bucket": "takipapp-275f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227594402755:android:2bc73f4e504f4993e81b76",
+        "android_client_info": {
+          "package_name": "com.example.personeltakip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227594402755-p8d0hdsdaq1b34genkpp8mnbej53il6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeEYnFLRG_v1oR5d7W6QpVJYpVoesucIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227594402755-p8d0hdsdaq1b34genkpp8mnbej53il6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
